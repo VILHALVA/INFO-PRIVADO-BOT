@@ -19,27 +19,7 @@ Este é um bot do Telegram que responde ao comando "/start" fornecendo informaç
 
 5. **Linguagem (Language)**: O bot também pode incluir o código de idioma preferido do usuário, se estiver disponível. Isso pode ser útil para adaptar as respostas do bot ao idioma preferido do usuário.
 
-## COMO USAR?
-### BAIXANDO O PROJETO:
-**Passo 1:** Clone o repositório para o seu sistema local.
-
-```bash
-git clone https://github.com/VILHALVA/INFO-PRIVADO-BOT.git
-```
-
-**Passo 2:** Navegue até o diretório do projeto.
-
-```bash
-cd INFO-PRIVADO-BOT
-```
-
-**Passo 3:** Descompacte o arquivo ZIP (se você baixou manualmente):
-
-```bash
-unzip INFO-PRIVADO-BOT.zip
-```
-
-### EXECUTANDO O PROJETO:
+## EXECUTANDO O PROJETO:
 1. **Coloque o Token:**
    - Antes de executar o programa, é necessário substituir o token do seu bot no arquivo `TOKEN.py`, o qual pode ser obtido por meio do [@BotFather](https://t.me/BotFather). Certifique-se também de que todas as dependências estejam instaladas em sua máquina. Se você não estiver familiarizado com esses passos, confira nosso [curso completo sobre a criação de bots no Telegram](https://github.com/VILHALVA/CURSO-DE-TELEGRAM-BOT) para obter orientações detalhadas.
 
@@ -50,8 +30,9 @@ unzip INFO-PRIVADO-BOT.zip
 ```
    - Inicie o bot enviando o comando `/start`. Receba uma mensagem de informação.
 
-## CREDITOS:
+## SAIBA MAIS:
 - [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
 - [ESSE PROJETO FOI INSPIRADO NO INFOBOT EM JAVA](https://github.com/nadam/userinfobot)
 - [ESSE PROJETO FOI INSPIRADO NO BUSCADOR DE ID](https://github.com/VILHALVA/BUSCADOR-DE-ID)
+- [FAÇA OS NOSSOS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
