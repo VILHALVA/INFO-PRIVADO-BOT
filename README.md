@@ -21,7 +21,7 @@ Este é um bot do Telegram que responde ao comando "/start" fornecendo informaç
 
 ## EXECUTANDO O PROJETO:
 1. **Coloque o Token:**
-   - Antes de executar o programa, é necessário substituir o token do seu bot no arquivo `TOKEN.py`, o qual pode ser obtido por meio do [@BotFather](https://t.me/BotFather). Certifique-se também de que todas as dependências estejam instaladas em sua máquina. 
+   - Antes de executar o programa, é necessário substituir o token do seu bot no arquivo `TOKEN.py`, o qual pode ser obtido por meio do [@BotFather](https://t.me/BotFather).
 
 2. **Instalando as dependências:**
    - Antes de executar o bot, certifique-se de instalar todas as dependências necessárias. No terminal, execute o seguinte comando para instalar as dependências listadas no arquivo `requirements.txt` em `CODIGO`:
@@ -37,9 +37,14 @@ Este é um bot do Telegram que responde ao comando "/start" fornecendo informaç
 
    - Inicie o bot enviando o comando `/start`. Receba uma mensagem de informação.
 
-## SAIBA MAIS:
-- [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
+## NÃO SABE?
+- Entendemos que para manipular arquivos em muitas linguagens e tecnologias relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos alguns subsidios:
+* [CURSO DE TELEBOT](https://github.com/VILHALVA/CURSO-DE-TELEBOT)
+* [CURSO DE PYTHON](https://github.com/VILHALVA/CURSO-DE-PYTHON)
+* [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
+
+## CREDITOS:
+- [PROJETO FEITO PELO VILHALVA](https://github.com/VILHALVA)
 - [ESSE PROJETO FOI INSPIRADO NO INFOBOT EM JAVA](https://github.com/nadam/userinfobot)
 - [ESSE PROJETO FOI INSPIRADO NO BUSCADOR DE ID](https://github.com/VILHALVA/BUSCADOR-DE-ID)
-- [CURSO DE TELEBOT](https://github.com/VILHALVA/CURSO-DE-TELEBOT)
 
